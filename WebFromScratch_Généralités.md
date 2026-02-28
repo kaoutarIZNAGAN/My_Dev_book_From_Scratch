@@ -1,0 +1,1 @@
+1) La performance vient de l’architecture, pas du langage.
